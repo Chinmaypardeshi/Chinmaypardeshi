@@ -32,5 +32,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/chinmaypardeshi/chinmaypardeshi/snake.svg" alt="Snake animation" />
 
