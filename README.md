@@ -35,7 +35,7 @@
 
 <div align="left">
   <a href="https://www.youtube.com/@vnkpardeshi9934">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
   <a href="mailto:chinmayvpardeshi@gmail.com">
